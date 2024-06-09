@@ -20,9 +20,9 @@ pipenv run python main.py
 # Input files
 
 
-![Input background](bg3.png){:height="200px" width="200px"}
-![Input video](cal-video.gif){:height="200px" width="200px"}
+![Input background](bg3.png)
+![Input video](cal-video.gif)
 
 # Output
 
-![Output](output.gif){:height="200px" width="200px"}
+![Output](output.gif)
