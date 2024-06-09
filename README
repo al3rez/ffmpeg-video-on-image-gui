@@ -20,10 +20,9 @@ pipenv run python main.py
 # Input files
 
 
-![Input background](bg3.png)
-
-<video src='cal-video.mp4' width=180 />
+![Input background](bg3.png){:height="200px" width="200px"}
+![Input video](cal-video.gif){:height="200px" width="200px"}
 
 # Output
 
-<video src='output.mp4' width=180 />
+![Output](output.gif){:height="200px" width="200px"}
